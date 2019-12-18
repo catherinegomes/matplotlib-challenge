@@ -14,6 +14,7 @@ seaborn = "*"
 lifelines = "*"
 rpy2 = "*"
 plotly = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
