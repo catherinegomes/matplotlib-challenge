@@ -11,6 +11,9 @@ numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
 seaborn = "*"
+lifelines = "*"
+rpy2 = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.7"
